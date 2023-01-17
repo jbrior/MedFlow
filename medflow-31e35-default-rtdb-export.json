@@ -1,0 +1,30 @@
+{
+  "residents": {
+    "1ssdfsdfsdf2sfd3sdf45": {
+      "history": [
+        "12/31/22 08:09 - advil: 2 aleve: 1",
+        "01/17/22 06:49 - advil: 2 aleve: 1",
+        "01/15/22 06:49 - advil: 3 aleve: 4"
+      ],
+      "id": "1ssdfsdfsdf2sfd3sdf45",
+      "meds": [
+        "advil",
+        "tylenol",
+        "aleve"
+      ],
+      "name": "John Doe"
+    },
+    "sadfjksf8s9fsfa9797sdf": {
+      "history": [
+        "12/31/22 08:09 - advil: 2 aleve: 1"
+      ],
+      "id": "sadfjksf8s9fsfa9797sdf",
+      "meds": [
+        "advil",
+        "tylenol",
+        "aleve"
+      ],
+      "name": "Jane smith"
+    }
+  }
+}
